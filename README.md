@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.pinimg.com/564x/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.jpg" alt="hernandanielzamora" /> </p>
+<p align="center"> <img src="https://i.ibb.co/XLQPxbV/e9bf55f5df6b5c3717679a392f33bfdf-removebg-preview-1.png" alt="hernandanielzamora" /> </p>
 
 <h1 align="center">Hi 👋, I'm Hernán Zamora</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
