@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Personal and proffessional development**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Typescript and AWS**
 
 - 📫 How to reach me **zamorahernandaniel@gmail.com**
 
