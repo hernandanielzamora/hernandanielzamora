@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://i.ibb.co/XLQPxbV/e9bf55f5df6b5c3717679a392f33bfdf-removebg-preview-1.png" alt="hernandanielzamora" /> </p>
 
 <h1 align="center">Hi 👋, I'm Hernán Zamora</h1>
-<h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 <br>
 
 - 🔭 I’m currently working on **Personal and proffessional development**
